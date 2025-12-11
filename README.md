@@ -65,7 +65,7 @@ Agar seluruh anggota tetap tercatat dan terdokumentasi.
 ## 🔗 Link Project
 
 **Website:**  
-https://bicstwnyfive.infinityfree.me/
+https://bicstwnyfive.infinityfree.me/    (Masih Menggunakan Hostinger Gratisan)
 
 **Repository Web Kelas (GitHub):**  
 https://github.com/Kazemicoderai/Website-kelas-B
