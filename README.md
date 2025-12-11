@@ -68,7 +68,7 @@ Agar seluruh anggota tetap tercatat dan terdokumentasi.
 https://bicstwnyfive.infinityfree.me/
 
 **Repository Web Kelas (GitHub):**  
-[https://github.com/Kazemicoderai/Berkaspentingkuliah](https://github.com/Kazemicoderai/Website-kelas-B)
+https://github.com/Kazemicoderai/Website-kelas-B
 
 ---
 
